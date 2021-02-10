@@ -3,7 +3,7 @@
 
 <div align=right>
   
-![](https://komarev.com/ghpvc/?username=ingdaeho)
+![](https://komarev.com/ghpvc/?username=ingdaeho&color=green&style=plastic&label=PROFILE+VIEWS)
   
 </div>
 
