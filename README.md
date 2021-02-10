@@ -10,6 +10,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ingdaeho&theme=merko&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-
+### Tech Stack
+<img src="https://img.shields.io/badge/white?style=plastic&logo=JavaScript&logoColor=yellow"/></a>&nbsp 
 
 
