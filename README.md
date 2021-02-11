@@ -8,6 +8,9 @@
   
 </div>
 
+- 🔭 I’m currently looking for a job. 
+- 🌱 I’m currently learning JavaScript and React.
+
 ---
 
 ## :computer: Tech Stack
@@ -25,3 +28,7 @@
 ---
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ingdaeho&theme=merko&show_icons=true)]
+
+
+---
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ingdaeho) &nbsp;&nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/daehoieem//) &nbsp;&nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://velog.io/@ingdaeho)  
