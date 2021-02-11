@@ -17,6 +17,11 @@
 ### Back-end
 <img src="https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Express-000000?logo=Express&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=white"/>
 
+### Etc
+<img src="https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?logo=Notion&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Slack-4A154B?logo=Slack&logoColor=white"/> <img src="https://img.shields.io/badge/Trello-0079BF?logo=Trello&logoColor=white"/>
+
+
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ingdaeho&theme=merko&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ingdaeho&theme=merko&show_icons=true)]
