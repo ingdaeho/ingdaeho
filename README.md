@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=250&text=Hi&nbsp;there&nbsp;👋&fontSize=90&fontAlignY=35)
 # Hi there, I'm Daeho 👋 
   
 
@@ -10,8 +11,10 @@
 ---
 
 ## :computer: Tech Stack
+### Front-end 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=black"/> <img src="https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=black"/> <img src="https://img.shields.io/badge/Redux-764ABC?logo=Redux&logoColor=white"/> <img src="https://img.shields.io/badge/styled&#8211;components-DB7093?logo=styled-components&logoColor=white"/> <img src="https://img.shields.io/badge/Sass-CC6699?logo=Sass&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?logo=CSS3&logoColor=white"/>
 
+### Back-end
 <img src="https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Express-000000?logo=Express&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=white"/>
 
 ---
