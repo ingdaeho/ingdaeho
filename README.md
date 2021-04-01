@@ -22,7 +22,10 @@
 
 ### Etc
 <img src="https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?logo=Notion&logoColor=white"/>
- <img src="https://img.shields.io/badge/Slack-4A154B?logo=Slack&logoColor=white"/> <img src="https://img.shields.io/badge/Trello-0079BF?logo=Trello&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Slack-4A154B?logo=Slack&logoColor=white"/> <img src="https://img.shields.io/badge/Trello-0079BF?logo=Trello&logoColor=white"/> 
+ 
+ [![Netlify Status](https://api.netlify.com/api/v1/badges/37b85e11-99bf-4f0d-ad2a-9d2eeb9baa2b/deploy-status)](https://app.netlify.com/sites/ingdaeho/deploys)
+
 
 
 ---
