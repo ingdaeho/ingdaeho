@@ -2,14 +2,11 @@
 # Hi there, I'm Daeho 👋 
   
 
-<div align=right> 
+<div align=center> 
   
   ![](https://komarev.com/ghpvc/?username=ingdaeho&color=green&label=PROFILE+VIEWS)
   
 </div>
-
-- 🔭 I’m currently looking for a job. 
-- 🌱 I’m currently learning JavaScript and React.
 
 ---
 
